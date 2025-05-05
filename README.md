@@ -1,5 +1,79 @@
 # Mighty Mamas
+Mighty Mamas App – Empowering Women Through Work, Training & Technology
 
+Mighty Mamas is a Flutter-based mobile app designed to transform the lives of single mothers and widows in Sierra Leone by connecting them to domestic work opportunities and empowering them through training, financial literacy, and technology.
+
+
+---
+
+Key Features
+
+Domestic Job Marketplace: Clients can easily book reliable "Mamas" for services like:
+
+Cleaning
+
+Laundry
+
+Cooking
+
+Babysitting
+
+Elderly care
+
+Errands and market runs
+
+Home tutoring (basic literacy)
+
+Housekeeping
+
+
+AI Integration:
+
+Smart rating system based on client feedback
+
+Calculates total work hours and performance
+
+Determines loan eligibility after graduation
+
+
+Training Portal:
+
+Admin uploads free or subsidized training courses
+
+Mamas can apply, track progress, and graduate
+
+
+Blockchain Integration:
+
+All savings and earnings are recorded securely
+
+Bitcoin-based loan eligibility via smart contracts
+
+Transparent and tamper-proof system for financial tracking
+
+
+SMS Notifications via Twilio:
+
+Keeps users updated even with limited internet access
+
+
+
+
+---
+
+Tech Stack
+
+Frontend: Flutter (Android-focused)
+
+Backend: Node.js/Express with Twilio and Blockchain APIs
+
+Database: PostgreSQL
+
+Blockchain: Bitcoin-compatible smart contract system
+
+AI: Feedback-based scoring and loan calculator
+
+Hosting: Replit (demo), GitHub for source control
 A web platform connecting women in Sierra Leone with domestic work opportunities, featuring service listings, job tracking, and performance analysis.
 
 ![Mighty Mamas Logo](client/src/assets/mighty-mamas-logo.jpg)
